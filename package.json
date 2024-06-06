@@ -1,0 +1,23 @@
+{
+  "name": "fancode",
+  "version": "1.0.0",
+  "description": "Assignment for fancode org",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:re-run": "node run-failed-tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserstack-node-sdk": "^1.33.2",
+    "child_process": "^1.0.2",
+    "jest": "^29.7.0",
+    "jest-email-reporter": "^1.0.4",
+    "jest-html-reporters": "^3.1.7",
+    "jest-junit": "^16.0.0",
+    "pactum": "^3.7.0",
+    "pactum-matchers": "github:pratikpz18/pactum-matchers",
+    "path": "^0.12.7"
+  }
+}

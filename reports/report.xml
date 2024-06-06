@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.603">
+  <testsuite name="All the users of City &apos;FanCode&apos; should have greaterThan or equal to 50% completed todos, @fancode_method" errors="0" failures="0" skipped="0" timestamp="2024-06-06T14:57:06" time="1.517" tests="1">
+    <testcase classname="All the users of City &apos;FanCode&apos; should have greaterThan or equal to 50% completed todos, @fancode_method should execute test for FanCode city users with greaterThan or equal to 50% completed todos" name="All the users of City &apos;FanCode&apos; should have greaterThan or equal to 50% completed todos, @fancode_method should execute test for FanCode city users with greaterThan or equal to 50% completed todos" time="1.256">
+    </testcase>
+  </testsuite>
+</testsuites>
